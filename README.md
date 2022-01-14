@@ -26,10 +26,10 @@ redis利用方法
 ### SSRF漏洞原理、利用方式及修复方案？Java和PHP的SSRF区别？
 
 ##### SSRF漏洞原理
-原理：利用一个可以发起网络请求的服务，当作跳板来攻击其他服务。
+原理：利用一个可以发起网络请求的服务，当作跳板来攻击其他服务。  
 
-SSRF漏洞一般位于
-远程图片加载、图片或文章收藏功能、URL分享、通过URL在线翻译、转码等功能点处
+SSRF漏洞一般位于  
+远程图片加载、图片或文章收藏功能、URL分享、通过URL在线翻译、转码等功能点处   
 
 1、 分享：通过url地址分享网页内容
 
@@ -94,31 +94,31 @@ SSRF漏洞一般位于
 ##### Java和PHP的SSRF区别
 PHP支持的协议
 
-·file:// — Accessing local filesystem
-·http:// — Accessing HTTP(s) URLs
-·ftp:// — Accessing FTP(s) URLs
-·php:// — Accessing various I/O streams
-·zlib:// — Compression Streams
-·data:// — Data (RFC 2397)
-·glob:// — Find pathnames matching pattern
-·phar:// — PHP Archive
-·ssh2:// — Secure Shell 2
-·rar:// — RAR
-·ogg:// — Audio streams
-·expect:// — Process Interaction Streams
+·file:// — Accessing local filesystem  
+·http:// — Accessing HTTP(s) URLs  
+·ftp:// — Accessing FTP(s) URLs  
+·php:// — Accessing various I/O streams  
+·zlib:// — Compression Streams  
+·data:// — Data (RFC 2397)  
+·glob:// — Find pathnames matching pattern  
+·phar:// — PHP Archive  
+·ssh2:// — Secure Shell 2  
+·rar:// — RAR  
+·ogg:// — Audio streams  
+·expect:// — Process Interaction Streams  
 
-Java支持的协议
-·file 
-·ftp 
-·gopher
-·http
-·https
-·jar
-·mailto
-·netdoc
+Java支持的协议  
+·file  
+·ftp  
+·gopher  
+·http  
+·https  
+·jar  
+·mailto  
+·netdoc  
 
 ### 宽字节注入漏洞原理、利用方式及修复方案？
-gbk编码 %df
+gbk编码 %df  
 使用mysql_set_charset(GBK)指定字符集
 
 
