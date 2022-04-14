@@ -1,45 +1,13 @@
-# 安全面试题整理集合
+# 2022 安全面试题精髓整理
 
-> 欢迎 PR
+> write by txf
 
-## [sec-interview](https://github.com/d1nfinite/sec-interview)
+### 说明
 
-[渗透测试](./answer/sec-interview-渗透测试.md)<br>
-[Web 安全相关](./answer/sec-interview-Web安全相关.md)<br>
-[PHP 安全](./answer/sec-interview-PHP安全.md)<br>
+原本计划将安全圈的面试经历记录下来，然而通过实际观察发现面试题基本都是那一套，所以本项目改为按照面试题类型进行分类。
 
-<!-- [JAVA 安全](./answer/sec-interview-JAVA安全.md)<br>
-[安全研发相关](./answer/sec-interview-安全研发相关.md)<br>
-[Linux 相关](./answer/sec-interview-Linux相关.md)<br>
-[Windows 相关](./answer/sec-interview-Windows相关.md)<br>
-[内网渗透](./answer/sec-interview-内网渗透.md)<br>
-[其他安全相关](./answer/sec-interview-其他安全相关.md)<br> -->
+高频安全面试题总结，包含答案。
 
-## 阿里云
+### star 趋势
 
-[阿里云一面](./answer/阿里云1.md)<br>
-
-## 快手安全
-
-[快手一面](./answer/快手1.md)<br>
-[快手二面](./answer/快手2.md)<br>
-
-## 完美世界
-
-[完美世界面试](./answer/完美世界.md)<br>
-
-## 安恒信息
-
-[安恒信息一面](./answer/安恒信息1.md)<br>
-
-## 曹操出行
-
-[曹操出行一面](./answer/曹操出行1.md)<br>
-[曹操出行二面](./answer/曹操出行2.md)<br>
-[曹操出行 HR 面](./answer/曹操出行hr.md)<br>
-
-## [阿里应用安全](https://www.yuque.com/feei/sig/application-security)
-
-[常规应用漏洞](./answer/常规应用漏洞.md)<br>
-
-[业务逻辑漏洞](./answer/业务逻辑漏洞.md)<br>
+[![Stargazers over time](https://starchart.cc/tangxiaofeng7/Security_Q-A.svg)](https://starchart.cc/tangxiaofeng7/Security_Q-A)
